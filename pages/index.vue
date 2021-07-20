@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Tutorial />
+    <h1>this will be the landing page</h1>
   </div>
 </template>
 

@@ -20,7 +20,9 @@
   },
   "devDependencies": {
     "consola": "^2.15.3",
+    "node-sass": "4.14",
     "nodemon": "^2.0.12",
+    "sass-loader": "10.1.1",
     "vue-i18n": "^8.25.0"
   }
 }
