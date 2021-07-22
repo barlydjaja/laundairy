@@ -1,0 +1,18 @@
+@font-face {
+  font-family: TekoMedium;
+  src: url("assets/font/Teko-Medium.ttf");
+}
+@font-face {
+  font-family: TekoRegular;
+  src: url("assets/font/Teko-Regular.ttf");
+}
+@font-face {
+  font-family: TekoBold;
+  src: url("assets/font/Teko-Bold.ttf");
+}
+
+
+$primaryColor: #FBD931;
+$textColor: #FFFFFF;
+$fontLogo: TekoBold;
+$fontText: TekoRegular;
