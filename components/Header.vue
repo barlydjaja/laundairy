@@ -1,6 +1,7 @@
 <template>
-  <header>
-    <h1>this is the header part</h1>
+  <header class="text-center">
+    <h1>Laundiary</h1>
+    <h3>Your Laundry Diary</h3>
   </header>
 </template>
 
